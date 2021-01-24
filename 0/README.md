@@ -25,3 +25,11 @@ ANSWER: THIS ONE!
 ![](https://raw.github.com/procedural/linux_static_library_catastrophe/master/0/0.png)
 
 Welcome.
+
+---
+
+```
+ar x libmylib.a
+readelf --relocs 1.o
+readelf --relocs 2.o
+```
