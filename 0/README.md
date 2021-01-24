@@ -33,3 +33,5 @@ ar x libmylib.a
 readelf --relocs 1.o
 readelf --relocs 2.o
 ```
+
+https://refspecs.linuxfoundation.org/elf/index.html
